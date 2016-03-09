@@ -1,0 +1,25 @@
+{
+  "name": "kendama-list",
+  "homepage": "https://github.com/danielcodes/flask-practice",
+  "authors": [
+    "Daniel Chia <daniel_1118@hotmail.com>"
+  ],
+  "description": "Instagram clone, displaying kendamas only",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "kendama",
+    "list"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
