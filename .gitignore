@@ -1,3 +1,4 @@
 *.pyc
 
 kendama-list/static/bower_components
+app.db
