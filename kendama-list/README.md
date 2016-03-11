@@ -11,6 +11,11 @@ Primarily starting this app to work with WTForms
 * [ ] There is a form, that allows me to add a name and link to the kendama picture
 
 
+## TODOS
+
+* Set up dummy html page to play with components
+* Display description of your personal kendama in a neat table
+
 ## Notes
 
 * http://statusq.org/archives/2014/10/25/6161/ to set up Bower with Flask

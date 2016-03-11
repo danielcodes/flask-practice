@@ -41,7 +41,10 @@ def kendama_list():
     return "Hey, you currently have no kendamas"
 
 
+@app.route("/testing")
+def testing_components():
 
+    return render_template("dummy.html")
 
 
 
