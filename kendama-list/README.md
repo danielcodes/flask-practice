@@ -13,3 +13,4 @@ Primarily starting this app to work with WTForms
 ## Notes
 
 * http://statusq.org/archives/2014/10/25/6161/ to set up Bower with Flask
+* https://github.com/BlackrockDigital/startbootstrap-3-col-portfolio 3 column instagram looking page
