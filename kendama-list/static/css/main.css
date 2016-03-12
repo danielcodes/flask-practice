@@ -1,0 +1,9 @@
+
+/*keep images a certain height*/
+.img-height {
+	height: 350px;
+}
+
+body {
+	background-color: pink;
+}
